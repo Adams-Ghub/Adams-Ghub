@@ -1,7 +1,16 @@
 # Hi there 👋, I am Adams 
 
 
-#### Full-Stack developer with a love for solving problems using React and Node.js. I am open to new job opportunities.
+<li> 💻 A Front-end Web Developer </li>
+<li> ❤️‍🔥 Love solving problems. </li>
+<li> 🪟 Open to new opportunities </li>
+<li> 🎮 Enjoy video games. </li>
+
+### connect with me:
+[](https://www.linkedin.com/in/adams-bamfo-3aaa3011b/)
+I 
+  
+### languages and tools:
 
 
 <!--

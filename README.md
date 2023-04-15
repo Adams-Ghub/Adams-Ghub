@@ -1,16 +1,20 @@
-# Hi there 👋, I am Adams 
+ # Hi there 👋, I am Adams
+
 
 
 <li> 💻 A Front-end Web Developer </li>
 <li> ❤️‍🔥 Love solving problems. </li>
 <li> 🪟 Open to new opportunities </li>
 <li> 🎮 Enjoy video games. </li>
+<br>
 
-### connect with me:
-[](https://www.linkedin.com/in/adams-bamfo-3aaa3011b/)
-I 
-  
-### languages and tools:
+<div>
+
+[![Adams's GitHub stats](https://github-readme-stats.vercel.app/api?username=adams-ghub&show_icons=true)](https://github.com/adams-ghub/github-readme-stats)
+
+</div>
+
+
 
 
 <!--

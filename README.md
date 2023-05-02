@@ -2,7 +2,7 @@
 
 
 
-<li> 💻 A Front-end Web Developer </li>
+<li> 💻 A Full Stack Web Developer </li>
 <li> ❤️‍🔥 Love solving problems. </li>
 <li> 🪟 Open to new opportunities </li>
 <li> 🎮 Enjoy video games. </li>
